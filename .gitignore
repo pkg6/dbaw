@@ -1,0 +1,8 @@
+/vendor/
+/.idea
+/*.php
+/composer.lock
+/*.sql
+/local
+.phpunit.result.cache
+/runtime
